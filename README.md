@@ -7,6 +7,9 @@ As a senior data analyst, I've been given access to the complete data from their
 LANGUAGES, SOURCES & TOOLS USED: 
 
 i) Pandas
+
 ii) Matplotlib
+
 iii) Statistical Maths
+
 iv) (https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py)
